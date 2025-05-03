@@ -1,3 +1,4 @@
+#Игра лабиринт 
 from pygame import *
 
 clock = time.Clock()
